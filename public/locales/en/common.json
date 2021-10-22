@@ -1,0 +1,21 @@
+{
+  "head": {
+    "title": "Create Next App",
+    "description": "Next App typescript tailwind jest"
+  },
+  "main": {
+    "header": {
+      "title": "Click on",
+      "button": "Test Button"
+    },
+    "subHeader": {
+      "title": "Change Language"
+    }
+  },
+  "footer": {
+    "title": "Powered By",
+    "image": {
+      "alt": "Vercel Logo"
+    }
+  }
+}
